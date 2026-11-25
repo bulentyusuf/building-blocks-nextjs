@@ -1,6 +1,9 @@
 # Be Useful.
 
-The source for [beuseful.net](https://beuseful.net), a personal blog about content, code, and making things with generative AI.
+> [!NOTE]
+> **This repo is archived.** It was the source for [beuseful.net](https://beuseful.net) until 15 November 2026, when the site moved to Astro on Cloudflare. The live code now lives in [building-blocks-astro](https://github.com/bulentyusuf/building-blocks-astro). You're still welcome to fork or clone this Next.js version, but it won't get updates or security fixes.
+
+The former source for [beuseful.net](https://beuseful.net), a personal blog about content, code, and making things with generative AI.
 
 The code in this repo is an extension of the [Next.js Blog with Draft Mode](https://vercel.com/templates/next.js/nextjs-blog-draft-mode) starter template published by Vercel and shared under a MIT license.
 
